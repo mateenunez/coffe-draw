@@ -1,0 +1,55 @@
+.container{
+    background: rgb(157, 191, 230);
+    height: 20cm;
+    width: 40cm;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+.coffecup{
+    background-color: whitesmoke;
+    height: 300px;
+    width: 300px;
+    border-radius: 30px;
+    border: 3px solid rgb(212, 212, 212);
+    position: fixed;
+    margin: 5cm 0 0 10cm;
+    box-shadow: 10px 5px 25px 15px rgb(212, 212, 212) inset;
+}
+
+.coffehandler{
+    background-color: whitesmoke;
+    height: 220px;
+    width: 190px;
+    border-radius: 50%;
+    z-index: 1;
+    border-right: 3px solid rgb(212, 212, 212);
+    position: fixed;
+    margin: 6.5cm 0 0 16cm;
+}
+
+.handlersh{
+    background-color: rgb(157,191, 230);
+    height: 160px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 30px 35px 0 60px;
+    border: 2px solid rgb(212, 212, 212);
+    box-shadow: -10px 1px 30px 10px rgb(212, 212, 212);
+}
+
+.coffe{
+    background-color: rgb(109, 68, 15);
+    height: 90px;
+    width: 300px;
+    border-radius: 50%;
+    margin: 165px 0 0 10cm;
+    position: fixed;
+    z-index: 1;
+    border-top: 8px solid whitesmoke;
+    box-shadow: 5px -30px 25px 5px rgb(140, 90, 30) inset;
+}
